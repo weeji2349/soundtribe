@@ -1,5 +1,4 @@
 # soundtribe
-<!doctype html>
 <html>
   <head>
     <title>SOUNDTRIBE</title>
